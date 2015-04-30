@@ -1,6 +1,7 @@
 {
-	"name": "iScroll",
-	"main": [
-		"build/iscroll.js"
-	]
+  "name": "iScroll",
+  "version": "5.1.4",
+  "main": [
+    "build/iscroll.js"
+  ]
 }
