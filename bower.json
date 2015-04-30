@@ -1,0 +1,6 @@
+{
+	"name": "iScroll",
+	"main": [
+		"build/iscroll.js"
+	]
+}
